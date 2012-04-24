@@ -16,24 +16,25 @@ being an entire plugin. :)
 
 ## Installation
 
-_[Manual]_
+### Manual
 
-# Download this: http://github.com/shama/glert/zipball/master
-# Unzip that download.
-# Copy the resulting folder to app/Plugin/Glert/
+* Download this: http://github.com/shama/glert/zipball/master
+* Unzip that download.
+* Copy the resulting folder to app/Plugin/Glert/
 
-_[GIT Submodule]_
+### GIT Submodule
 
 In your app directory type:
-<pre><code>git submodule add git://github.com/shama/glert.git Plugin/Glert
-git submodule init
-git submodule update
-</code></pre>
 
-_[GIT Clone]_
+    git submodule add git://github.com/shama/glert.git Plugin/Glert
+    git submodule init
+    git submodule update
 
-In your plugin directory type
-<pre><code>git clone git://github.com/shama/glert.git Glert</code></pre>
+### GIT Clone
+
+In your plugin directory type:
+
+    git clone git://github.com/shama/glert.git Glert
 
 ## Usage
 
