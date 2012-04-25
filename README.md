@@ -12,7 +12,7 @@ being an entire plugin. :)
 
 * PHP 5.2.8+
 * CAKEPHP 2.0+
-* Google
+* [Google Alerts Feed URL](http://google.com/alerts)
 
 ## Installation
 
